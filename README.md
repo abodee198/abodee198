@@ -1,40 +1,43 @@
-# Hi there, I'm Abdullah! 👋
+# Hi there, I'm Abdullah! 👋 
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW94bmZ6eHpsbmZ4bmZ6eHpsbmZ4bmZ6eHpsbmZ4bmZ6JnBzPTEmcmU9MQ/l378cc43oGPTLxdM4/giphy.gif" width="300">
+</p>
 
 ### 👨‍💻 About Me
 * **Who am I:** A dedicated 19-year-old Computer Science student.
 * **What I Study:** Currently in my first year at Umm Al-Qura University (UQU).
-* **Programming Interests:** I am focused on building a strong foundation in Programming Fundamentals and Discrete Structures. I also have a deep interest in PC hardware optimization.
----
-
-### 📚 Currently Learning
-* **Programming Fundamentals:** Starting my journey into the world of code.
-* **Discrete Structures:** Exploring logic and mathematical foundations.
-* **PC Architecture:** High interest in hardware optimization and PC building.
+* **Programming Interests:** Building foundations in Java and Discrete Structures.
 
 ---
 
-### 🛠 Tools I Use
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 🏆 My Achievements & Badges
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-First%20Year%20Student-blue?style=for-the-badge&logo=uqu" />
+  <img src="https://img.shields.io/badge/Focus-CS%20Fundamentals-orange?style=for-the-badge&logo=codeforces" />
+  <img src="https://img.shields.io/badge/Goal-Java%20Certification-red?style=for-the-badge&logo=oracle" />
+</p>
 
 ---
 
-### 🎮 Interests
-* **PC Building:** 
-* **Gaming & VR:** Meta Quest 3 enthusiast. 🥽
+### 🚀 Projects (In Progress)
+* **Logic Gate Solver:** A simple project focusing on Discrete Mathematics concepts.
+* **Java Foundations:** Practice exercises covering loops and methods.
+* **PC Configurator:** A guide for optimized PC building based on my Intel i9-12900KF build.
 
 ---
 
-
-
----
-
-### 📫 How to reach me:
-* **GitHub:** [abodee198](https://github.com/abodee198)
-
+### 📊 GitHub Stats
+<p align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abodee198&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abodee198&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
-### 📫 Let's Connect:
-* **GitHub Profile:** [github.com/abodee198](https://github.com/abodee198)
+### 🌐 Let's Connect:
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://twitter.com/YOUR_TWITTER_HERE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-lite.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="mailto:your_email@uqu.edu.sa" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" /></a>
+</p>
