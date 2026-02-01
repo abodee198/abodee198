@@ -21,33 +21,22 @@
 ---
 
 ### 🚀 Projects (In Progress)
-* **Logic Gate Solver:** A simple project focusing on Discrete Mathematics concepts.
-* **Java Foundations:** Practice exercises covering loops and methods.
-* **PC Configurator:** A guide for optimized PC building based on my Intel i9-12900KF build.
+null
 
 
 ---
----
 
-### 🚀 Projects & Learning Labs
-
-#### 🔢 [Logic-Gate-Simulator](https://github.com/abodee198)
-* **Description:** A project applying concepts from **Discrete Structures** to simulate logical gates (AND, OR, NOT).
-* **Tech:** Logic Design, Discrete Mathematics.
-
-#### ☕ [Java-Foundations-Lab](https://github.com/abodee198)
-* **Description:** A collection of Java programs focusing on basic syntax, loops, and methods as part of my CS journey at **UQU**.
-* **Tech:** Java.
-
-#### 🖥️ [PC-Performance-Optimizer](https://github.com/abodee198)
-* **Description:** Documentation and scripts for optimizing high-end PC builds, specifically for the **Intel i9-12900KF** and **B660M AORUS ELITE** setup.
-* **Tech:** Hardware Optimization, System Tuning.
 
 ---
----
 
-### 📊 My Activity
-![GitHub Metrics](https://metrics.lecoq.io/abodee198?template=classic&base.header=0&base.activity=1&base.community=0&base.repositories=1&base.metadata=0&config.timezone=Asia/Riyadh)
+### 📊 My Activity & Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=abodee198&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abodee198&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
