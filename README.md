@@ -29,9 +29,9 @@
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abodee198&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abodee198&layout=compact&theme=tokyonight)
-
+<p align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abodee198&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</p>
 
 ---
 
