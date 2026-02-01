@@ -31,3 +31,36 @@ I am a first-year CS student passionate about technology, PC hardware, and build
 
 ### 📫 How to reach me:
 * **GitHub:** [abodee198](https://github.com/abodee198)
+
+# Hi there, I'm Abdullah! 👋
+
+### 👨‍💻 About Me
+* **Who am I:** A dedicated 19-year-old Computer Science student.
+* **What I Study:** Currently in my first year at Umm Al-Qura University (UQU).
+* **Programming Interests:** I am focused on building a strong foundation in Programming Fundamentals and Discrete Structures. I also have a deep interest in PC hardware optimization.
+
+---
+
+### 📚 Learning Journey
+* **Current Focus:** Master the basics of logic and coding.
+* **Goal:** To become a professional developer and system optimizer.
+
+---
+
+### 📊 My GitHub Stats
+<p align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abodee198&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abodee198&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+### 🛠 My Tech Gear
+* **Processor:** Intel i9-12900KF.
+* **Motherboard:** Gigabyte B660M AORUS ELITE.
+* **VR:** Meta Quest 3.
+
+---
+
+### 📫 Let's Connect:
+* **GitHub Profile:** [github.com/abodee198](https://github.com/abodee198)
