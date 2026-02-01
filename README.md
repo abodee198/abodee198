@@ -26,8 +26,11 @@
 * **PC Configurator:** A guide for optimized PC building based on my Intel i9-12900KF build.
 
 
+---
 
-
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abodee198&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abodee198&layout=compact&theme=tokyonight)
 
 
 ---
