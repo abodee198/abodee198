@@ -1,6 +1,6 @@
 # Hi there, I'm Abdullah! 👋
 
-
+### 👨‍💻 About Me
 * **Who am I:** A dedicated 19-year-old Computer Science student.
 * **What I Study:** Currently in my first year at Umm Al-Qura University (UQU).
 * **Programming Interests:** I am focused on building a strong foundation in Programming Fundamentals and Discrete Structures. I also have a deep interest in PC hardware optimization.
