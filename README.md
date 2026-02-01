@@ -25,9 +25,9 @@
 * **Java Foundations:** Practice exercises covering loops and methods.
 * **PC Configurator:** A guide for optimized PC building based on my Intel i9-12900KF build.
 
----
 
-### 📊 GitHub Stats
+
+
 
 
 ---
