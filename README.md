@@ -28,16 +28,13 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abodee198&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abodee198&layout=compact&theme=tokyonight"/>
-</p>
+
 
 ---
 
 ### 🌐 Let's Connect:
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/xmopra-xl-466103379/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://twitter.com/YOUR_TWITTER_HERE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-lite.svg" alt="Twitter" height="30" width="40" /></a>
 <a href="mailto:your_email@uqu.edu.sa" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" /></a>
 </p>
