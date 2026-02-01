@@ -20,7 +20,7 @@ I am a first-year CS student passionate about technology, PC hardware, and build
 ---
 
 ### 🎮 Interests
-* **PC Building:** (My recent build: i9-12900KF + B660M AORUS ELITE) 🖥️
+* **PC Building:** 
 * **Gaming & VR:** Meta Quest 3 enthusiast. 🥽
 
 ---
