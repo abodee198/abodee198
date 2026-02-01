@@ -27,7 +27,23 @@
 
 
 ---
+---
 
+### 🚀 Projects & Learning Labs
+
+#### 🔢 [Logic-Gate-Simulator](https://github.com/abodee198)
+* **Description:** A project applying concepts from **Discrete Structures** to simulate logical gates (AND, OR, NOT).
+* **Tech:** Logic Design, Discrete Mathematics.
+
+#### ☕ [Java-Foundations-Lab](https://github.com/abodee198)
+* **Description:** A collection of Java programs focusing on basic syntax, loops, and methods as part of my CS journey at **UQU**.
+* **Tech:** Java.
+
+#### 🖥️ [PC-Performance-Optimizer](https://github.com/abodee198)
+* **Description:** Documentation and scripts for optimizing high-end PC builds, specifically for the **Intel i9-12900KF** and **B660M AORUS ELITE** setup.
+* **Tech:** Hardware Optimization, System Tuning.
+
+---
 ---
 
 ### 📊 My Activity
